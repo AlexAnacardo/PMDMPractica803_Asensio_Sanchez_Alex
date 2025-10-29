@@ -21,7 +21,7 @@ public class ActivityListar extends AppCompatActivity {
 
         ArrayList<Usuario> usuarios = (ArrayList<Usuario>) getIntent().getSerializableExtra("usuarios");
 
-        UsuarioAdapter adapter = new UsuarioAdapter(this, usuarios);
+        UsuarioAdapter adapter = new UsuarioAdapter(usuarios);
 
         recyclerUsuarios.setAdapter(adapter);
     }
