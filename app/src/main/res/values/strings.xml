@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica802_Asensio_Sanchez_Alex</string>
+
+    <string name="botonAñadir">Añadir usuario</string>
+    <string name="botonListar">Listar usuarios</string>
+
+    <string name="hintNombre">Nombre</string>
+    <string name="hintApellidos">Apellidos</string>
+    <string name="hintEdad">Edad</string>
+    <string name="hintDni">DNI</string>
+    <string name="hintTelefono">Teléfono</string>
+    <string name="botonAceptar">Aceptar</string>
+</resources>
